@@ -25,6 +25,6 @@ to goal configurations in the accompanying plot.
 4. To run RRT, in the projectStartup file,
 comment out the following lines : 41-42,48-64,66.
 Uncomment the following lines: 43-44,73.
-5. Run thr program as in 3.
+5. Run the program as in 3.
 This will replace the call to PRM with RRT and the robot 
 will do motion planning with RRT algorithm.
